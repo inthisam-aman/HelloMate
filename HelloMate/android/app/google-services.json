@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226016294609",
+    "project_id": "hellomate-v1",
+    "storage_bucket": "hellomate-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226016294609:android:ff1caaefc29236c005b7f0",
+        "android_client_info": {
+          "package_name": "com.hellomate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226016294609-rdp3m670oo32dki9div6jqljc0iifjik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellomate",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "226016294609-fjl280vq20cb8pbv8div88qg94astge1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEOVGVWSSVxLktV-KtSgm2nU6TIQEmoxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226016294609-fjl280vq20cb8pbv8div88qg94astge1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
